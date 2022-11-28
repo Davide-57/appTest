@@ -12,7 +12,7 @@ public class BasicCalculation {
 
     public double PerfectDivision(int a, int b) {
         double result;
-        result = a/b;
+        result = (double)a/b;
         return (result);
     }
 
